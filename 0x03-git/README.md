@@ -1,1 +1,1 @@
-# This is a sub directory
+# This is the main project directory.
